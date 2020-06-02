@@ -1752,6 +1752,19 @@ i:before {
   background: url(../img/banner/banner-bg.jpg) no-repeat scroll center center;
   background-size: cover;
 }
+.banner_area1 {
+  background: url(../img/banner/banner1-bg.jpg) no-repeat scroll center center;
+  background-size: cover;
+}
+.banner_area2 {
+  background: url(../img/banner/banner2-bg.jpg) no-repeat scroll center center;
+  background-size: cover;
+}
+.banner_area3 {
+  background: url(../img/banner/banner3-bg.jpg) no-repeat scroll center center;
+  background-size: cover;
+}
+
 
 .banner_text {
   text-align: center;
